@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: "Karla", sans-serif;
+}
+
+
+/* Meme -> meme_text */
+.bottom {
+    bottom: 0;
+}
+
+.top {
+    top: 0;
+}
